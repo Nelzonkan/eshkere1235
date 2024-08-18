@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: rgb(239, 108, 108)
+ }   
+
+ p {
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-family: sans-serif;
+ } 
+
+h1 {
+color: rgb(255, 255, 255);
+font-size: 30px;
+font-family: sans-serif;
+ }
+
+a{
+font-size: 25px;
+margin: 10px;
+font-family: sans-serif;
+border: inset 2px rgb(0, 255, 72);
+text-decoration: dashed;
+}

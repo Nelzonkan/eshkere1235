@@ -19,6 +19,8 @@ a{
 font-size: 25px;
 margin: 10px;
 font-family: sans-serif;
-border: inset 2px rgb(0, 255, 72);
+border: inset 2px rgb(120, 120, 120);
 text-decoration: dashed;
+background-color: bisque;
+padding: 10px;
 }
